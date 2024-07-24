@@ -22,6 +22,8 @@ tslearn.metrics
       dtw_path_from_metric
       dtw_limited_warping_length
       dtw_path_limited_warping_length
+      frechet
+      frechet_path_pair
       subsequence_path
       subsequence_cost_matrix
       dtw_subsequence_path
